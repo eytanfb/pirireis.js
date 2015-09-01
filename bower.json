@@ -1,0 +1,27 @@
+{
+  "name": "pirireis.js",
+  "version": "1.0.0",
+  "authors": [
+    "Eytan Anjel <eytanfb@gmail.com>"
+  ],
+  "description": "This is small library to make it easier to keep track of navigations where hiding/showing divs is used",
+  "main": "navigation.js",
+  "keywords": [
+    "navigation",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}
